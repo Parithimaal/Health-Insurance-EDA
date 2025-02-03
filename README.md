@@ -9,7 +9,6 @@ This repository contains an exploratory data analysis (EDA) of health insurance 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Insights](#key-insights)
 - [Visualizations](#visualizations)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -55,4 +54,8 @@ This project utilizes **Plotly** to create interactive charts, including:
 - **Bar Charts** to compare categorical variables.
 - **Heatmaps** to visualize correlations among multiple features.
 
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
+## License
+This project is open-source and available for educational and research purposes.
