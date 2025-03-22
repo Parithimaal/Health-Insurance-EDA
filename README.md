@@ -15,7 +15,7 @@ This analysis explores key trends and dynamics in the Indian health insurance se
 
 ## Dataset
 
-The dataset was obtained from the official website of [Insurance Regulatory and Development Authority](https://irdai.gov.in/handbook-of-indian-insurance).
+The dataset was obtained from the official website of [Insurance Regulatory and Development Authority of India](https://irdai.gov.in/handbook-of-indian-insurance).
 
 ## Summary of Findings
 
